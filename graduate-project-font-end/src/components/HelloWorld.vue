@@ -21,6 +21,7 @@ export default {
 <style scoped>
 h1, h2 {
   font-weight: normal;
+  color: pink;
 }
 ul {
   list-style-type: none;
